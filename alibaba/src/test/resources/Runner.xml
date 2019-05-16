@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Common Modules Script" parallel="false">
+
+    <parameter name="useCloudEnv" value="true"/>
+    <parameter name="cloudEnvName" value="browserstack"/>
+    <parameter name="os" value="OS X"/>
+    <parameter name="os_version" value="Sierra"/>
+    <parameter name="browserName" value="chrome"/>
+    <parameter name="browserVersion" value="53.0"/>
+    <parameter name="url" value="https://www.alibaba.com/"/>
+    <parameter name="platform" value="mac"></parameter>
+
+    <test name="alibaba Test">
+        <classes>
+            <class name="RegressionSuite.TestHomePage"/>
+            <class name=""/>
+
+        </classes>
+    </test>
+</suite>
