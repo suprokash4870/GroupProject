@@ -21,8 +21,8 @@ public class TestHomePage extends CommonAPI {
         driver.get(url);
     }
     @Test
-    public void click_search(){
-
+    public void call_click_signin(){
+homePage.click_signin();
     }
 
 

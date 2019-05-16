@@ -7,32 +7,16 @@ import org.openqa.selenium.support.FindBy;
 import org.testng.Assert;
 
 public class HomePage extends CommonAPI {
-    @FindBy(id = "//*[@id=\"nav-orders\"]/span[2]")
-    WebElement orderTab;
-
-    @FindBy(xpath = "//*[@id=\"nav-hamburger-menu\"]/i")
-    WebElement hamburger;
-
-    @FindBy(id = ("twotabsearchtextbox"))
-    WebElement inputSearch;
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[2]/div[3]/div[1]/div[1]/div[2]/span[1]/a")
+    WebElement sign_in;
 
 
 
-    public void setOrderTab(){
-        orderTab.click();
-    }
-    public void setHamburger(){
-        if(hamburger.isDisplayed()){
-            hamburger.click();
-            Assert.assertTrue(true);
-            hamburger.click();
-        }
-    }
-    public void setInputSearch (String name) throws InterruptedException{
-        if (inputSearch.isEnabled()){
-            inputSearch.sendKeys(name,Keys.ENTER);
-        }
-        Thread.sleep(5000);
+    public void click_signin(){
+        sign_in.click();
+
 
     }
-}
+
+
+    }

@@ -103,7 +103,7 @@ public class CommonAPI {
      */
     public static WebDriver getLocalDriver(String browser, String platform) {
         if (platform.equalsIgnoreCase("mac") && browser.equalsIgnoreCase("chrome")) {
-            System.setProperty("webdriver.chrome.driver", "../generic/src/main/resources/drivers/chromedriver 2");
+            System.setProperty("webdriver.chrome.driver", "/Users/mdriad/IdeaProjects/OurDream/generic/src/main/resources/drivers/chromedriver 2");
         } else if (platform.equalsIgnoreCase("windows") && browser.equalsIgnoreCase("chrome")) {
             System.setProperty("webdriver.chrome.driver", "../Generic/src/main/resources/drivers/chromedriver.exe");
         }
