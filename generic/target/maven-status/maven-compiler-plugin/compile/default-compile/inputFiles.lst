@@ -1,1 +1,8 @@
+/Users/mdriad/IdeaProjects/OurDream/generic/src/main/java/reporting/ExtentTestManager.java
+/Users/mdriad/IdeaProjects/OurDream/generic/src/main/java/reporting/TestLogger.java
+/Users/mdriad/IdeaProjects/OurDream/generic/src/main/java/databases/ConnectToSqlDB.java
+/Users/mdriad/IdeaProjects/OurDream/generic/src/main/java/databases/ConnectToMongoDB.java
+/Users/mdriad/IdeaProjects/OurDream/generic/src/main/java/databases/User.java
 /Users/mdriad/IdeaProjects/OurDream/generic/src/main/java/base/CommonAPI.java
+/Users/mdriad/IdeaProjects/OurDream/generic/src/main/java/reporting/ExtentManager.java
+/Users/mdriad/IdeaProjects/OurDream/generic/src/main/java/utility/ExcelReader.java

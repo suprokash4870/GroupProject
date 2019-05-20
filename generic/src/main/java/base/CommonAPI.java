@@ -46,7 +46,7 @@ public class CommonAPI {
     //screenshot
     public static void captureScreenshot(WebDriver driver, String screenshotName) {
 
-        DateFormat df = new SimpleDateFormat("(MM.dd.yyyy-HH:mma)");
+        DateFormat df = new SimpleDateFormat("(MM.dd.yyyy-HH:mma;ss)");
         Date date = new Date();
         df.format(date);
 
@@ -62,7 +62,7 @@ public class CommonAPI {
     }
 
     @Parameters({"platform", "url", "browser", "cloud", "browserVersion", "envName"})
-    @BeforeMethod
+    @BeforeClass
     public static WebDriver setupDriver(String platform, String url, @Optional("chrome") String browser, @Optional("false") boolean cloud, String browserVersion, String envName) throws MalformedURLException {
         if (cloud) {
             driver = getCloudDriver(browser, browserVersion, platform, envName);
@@ -103,7 +103,7 @@ public class CommonAPI {
      */
     public static WebDriver getLocalDriver(String browser, String platform) {
         if (platform.equalsIgnoreCase("mac") && browser.equalsIgnoreCase("chrome")) {
-            System.setProperty("webdriver.chrome.driver", "/Users/mdriad/IdeaProjects/OurDream/generic/src/main/resources/drivers/chromedriver 2");
+            System.setProperty("webdriver.chrome.driver", "../generic/drivers/chromedriver");
         } else if (platform.equalsIgnoreCase("windows") && browser.equalsIgnoreCase("chrome")) {
             System.setProperty("webdriver.chrome.driver", "../Generic/src/main/resources/drivers/chromedriver.exe");
         }
@@ -121,7 +121,7 @@ public class CommonAPI {
      * @Author - peoplenTech
      */
     public static void getScreenshot(WebDriver driver) {
-        DateFormat df = new SimpleDateFormat("(MM.dd.yyyy-HH:mma)");
+        DateFormat df = new SimpleDateFormat("(MM.dd.yyyy-HH:mma:ss)");
         Date date = new Date();
         String name = df.format(date);
         File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
@@ -270,9 +270,9 @@ public class CommonAPI {
         extent.close();
     }
 
-    @AfterMethod
+    @AfterClass
     public void quitDriver() {
-        driver.close();
+      //  driver.close();
         driver.quit();
     }
 
