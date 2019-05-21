@@ -69,25 +69,41 @@ public class TestHomePage extends CommonAPI {
         Thread.sleep(2000);
     }
 
-    @Test(priority = 8,enabled = false)
+    @Test(priority = 8, enabled = false)
     public void sourchig_solution() throws InterruptedException {
         homePage.mouse();
         Thread.sleep(5000);
 
     }
-    @Test(priority = 9,enabled = false)
+
+    @Test(priority = 9, enabled = false)
     public void click_apparel() throws InterruptedException {
         homePage.setApparel();
         Thread.sleep(3000);
-       // homePage.setMensclothing();
+        // homePage.setMensclothing();
 
     }
-@Test
+
+
+
+    @Test(priority =10,enabled = false)
     public void readyto_ship() throws InterruptedException {
-       getLocalDriver("chrome","mac");
-       driver.findElement(By.xpath("//*[@id=\"J_SC_header\"]/header/div[1]/div[5]/ul/li[1]/a")).click();
-       Thread.sleep(3000);
-}
+        getLocalDriver("chrome", "mac");
+        driver.get("https://www.alibaba.com/");
+        driver.findElement(By.xpath("//*[@id=\"J_SC_header\"]/header/div[1]/div[5]/ul/li[1]/a")).click();
+        Thread.sleep(2000);
+        driver.findElement(By.xpath("//*[@id=\"J_SC_header\"]/header/div[2]/div[2]/div/div/form/div[2]/input")).sendKeys("cellphones");
+        Thread.sleep(3000);
+    }
+    @Test
+    public void vehicles_accessories() throws InterruptedException {
+        getLocalDriver("chrome", "mac");
+        driver.get("https://www.alibaba.com/");
+        driver.findElement(By.xpath("//*[@id=\"scc-category-unit-index\"]/div/ul/li[3]/a")).click();
+        Thread.sleep(3000);
+        mouseHoverByCSS("body > div.ocms-container > div > div > div.ch-main-layout.column-two > div.ch-left-layout > div > div > div > div > div > div.category-menu-wrapper > div.menu > div:nth-child(1) > a > div.category-menu-link");
+        Thread.sleep(3000);
+    }
 }
 
 
