@@ -33,11 +33,11 @@ import java.util.List;
 import java.util.concurrent.TimeUnit;
 
 public class CommonAPI {
-    public static final String BROWSERSTACK_USERNAME = "";
-    public static final String BROWSERSTACK_AUTOMATE_KEY = "";
+    public static final String BROWSERSTACK_USERNAME = "riad25";
+    public static final String BROWSERSTACK_AUTOMATE_KEY = "yn7DSuumPdd2mziNLsuB";
     public static final String SAUCE_USERNAME = "";
     public static final String SAUCE_AUTOMATE_KEY = "";
-    public static final String BROWSERSTACK_URL = "https://" + BROWSERSTACK_USERNAME + ":" + BROWSERSTACK_AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
+    public static final String BROWSERSTACK_URL = "https://www.browserstack.com/" + BROWSERSTACK_USERNAME + ":" + BROWSERSTACK_AUTOMATE_KEY + "@hub-cloud.browserstack.com/wd/hub";
     public static final String SAUCE_URL = "https://" + SAUCE_USERNAME + ":" + SAUCE_AUTOMATE_KEY + "@ondemand.saucelabs.com:80/wd/hub";
     public static WebDriver driver = null;
     //Extent Report Setup

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
+
 <suite name="Common Modules Script" parallel="false">
 <!--    "platform", "url", "browser", "cloud", "browserVersion", "envName"-->
     <parameter name="cloud" value="false"/>
@@ -14,6 +15,7 @@
     <parameter name="envName" value="Saucelabs"></parameter>
 
     <test name="alibaba Test">
+
         <classes>
             <class name="RegressionSuite.TestHomePage"/>
         </classes>

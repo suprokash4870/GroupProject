@@ -23,9 +23,65 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[2]/div[2]/div/div[1]/form/i[1]")
     WebElement hit_search;
 
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[2]/div[3]/div[2]/div[1]/div/a")
+    WebElement orderprotection;
+
+
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[2]/div[2]/div/div/form/div[1]/div/div/span[1]")
+    WebElement suppliers;
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[5]/ul/li[3]/a")
+    WebElement TradeShow;
+    @FindBy(xpath = "/html/body/div[2]/div/div/div/div[1]/div/div/a[5]")
+    WebElement tradeshow_products;
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[3]/ul/li[1]/div/div/ul[1]/li[2]/a")
+    WebElement top_suppliers;
+    @FindBy(xpath = "//*[@id=\"scc-category-unit-index\"]/div/ul/li[2]/a")
+    WebElement apparel;
+    @FindBy(xpath = "//*[@id=\"categorytree\"]/div/div/div/div[1]/div[2]/div[2]/a/div[1]")
+    WebElement mensclothing;
+
+    public void setMensclothing() {
+        mensclothing.click();
+    }
+
+
+    public void setApparel() {
+        apparel.click();
+    }
+
+    public void mouse() throws InterruptedException {
+
+        mouseHoverByCSS("#J_SC_header > header > div.sc-hd-row.sc-hd-beacon > div.J-sc-hd-m-beaconnav.sc-hd-cell.sc-hd-hide-s.sc-hd-m-beaconnav > ul > li.J-sc-hd-ms-sourcing-solutions.sc-hd-ms-dp-trigger > span");
+        top_suppliers.click();
+        Thread.sleep(5000);
+
+    }
+
+
+    public void setTradeshow_products() throws InterruptedException {
+        tradeshow_products.click();
+        Thread.sleep(5000);
+    }
+
+
+    public void setTradeShow() {
+        TradeShow.click();
+    }
+
+    public void setSuppliers() {
+        suppliers.click();
+
+
+    }
+
     public void setSignin() throws InterruptedException {
         signin.click();
         Thread.sleep(2000);
+    }
+
+    public void setOrderprotection() throws InterruptedException {
+        orderprotection.click();
+        Thread.sleep(5000);
     }
 
     public void setAccount() throws InterruptedException {
@@ -53,4 +109,5 @@ public class HomePage extends CommonAPI {
         hit_search.click();
         Thread.sleep(5000);
     }
+
 }

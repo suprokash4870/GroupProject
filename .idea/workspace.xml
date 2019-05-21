@@ -2,43 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="714f85de-574f-42ef-8a68-aed2ce35389a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/alibaba/target/test-classes/alibabaRunner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mysql drivers/mysql-connector-java-8.0.13.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OurDream.iml" beforeDir="false" afterPath="$PROJECT_DIR$/webAutomatonTeam4.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/clcik_on_Search (05.20.2019-02:06AM;52).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/clcik_on_Search (05.20.2019-02:10AM;37).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/clcik_on_Search (05.20.2019-02:21AM;04).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/src/test/resources/Runner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/alibaba-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/target/classes/regression/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/classes/regression/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/Command line test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/Command line test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/TEST-RegressionSuite.TestHomePage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/TEST-RegressionSuite.TestHomePage.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/reporter-output.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/reporter-output.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/testng-results.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/target/test-classes/RegressionSuite/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/test-classes/RegressionSuite/TestHomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/target/test-classes/Runner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/test-classes/alibabaRunner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/test-classes/alibabaRunner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/src/main/resources/drivers/chromedriver 2" beforeDir="false" afterPath="$PROJECT_DIR$/generic/drivers/chromedriver" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/src/main/resources/sql driver/mysql-connector-java-5.1.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/classes/base/CommonAPI.class" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/classes/base/CommonAPI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/classes/drivers/chromedriver 2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/classes/sql driver/mysql-connector-java-5.1.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/generic-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -58,11 +34,23 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="720">
+              <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#1548#1549#0" expanded="true" />
+                <element signature="e#1612#1613#0" expanded="true" />
+                <element signature="e#2158#2159#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3771">
+              <caret line="355" column="5" selection-start-line="355" selection-start-column="5" selection-end-line="355" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -70,13 +58,22 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="221">
+              <caret line="85" column="53" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#542#543#0" expanded="true" />
-                <element signature="e#573#574#0" expanded="true" />
+                <element signature="e#2197#2198#0" expanded="true" />
+                <element signature="e#2228#2229#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="21">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -113,11 +110,11 @@
         <option value="$PROJECT_DIR$/generic/src/main/java/databases/User.java" />
         <option value="$PROJECT_DIR$/generic/src/main/java/utility/ExcelReader.java" />
         <option value="$PROJECT_DIR$/alibaba/src/test/resources/Runner.xml" />
-        <option value="$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml" />
-        <option value="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/alibaba/report-config.xml" />
-        <option value="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" />
+        <option value="$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml" />
         <option value="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" />
+        <option value="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java" />
       </list>
     </option>
   </component>
@@ -147,7 +144,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="634" />
     <option name="height" value="800" />
   </component>
@@ -157,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -170,6 +166,18 @@
               <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
               <item name="OurDream" type="462c0819:PsiDirectoryNode" />
               <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="Extent-Report" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="alibaba" type="462c0819:PsiDirectoryNode" />
+              <item name="screenshots" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
@@ -293,32 +301,84 @@
               <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
               <item name="OurDream" type="462c0819:PsiDirectoryNode" />
               <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="reporting" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="generic" type="462c0819:PsiDirectoryNode" />
               <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql drivers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="OurDream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="OurDream" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mysql drivers" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="coverage" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/generic/drivers" />
-      <recent name="$PROJECT_DIR$/generic/src/main/resources/drivers" />
-      <recent name="$PROJECT_DIR$/generic/src/main/resources/sql driver" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/alibaba" />
       <recent name="$PROJECT_DIR$/alibaba/src/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/mysql drivers" />
+      <recent name="$PROJECT_DIR$/generic/drivers" />
+      <recent name="$PROJECT_DIR$/generic/src/main/resources/drivers" />
+      <recent name="$PROJECT_DIR$/generic/src/main/resources/sql driver" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -334,53 +394,6 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG./Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml">
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="webAutomatonTeam4" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="webAutomatonTeam4" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TestHomePage" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="alibaba" />
       <extension name="coverage">
@@ -478,41 +491,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 01h 39m 17s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 21h 26m 04s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 01h 40m 16s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 01m 52s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 01h 42m 57s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 29m 37s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 01h 44m 05s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 30m 09s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 01h 47m 31s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 31m 01s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 01h 50m 47s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 36m 18s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestHomePage_clcik_on_Search - 2019.05.20 at 02h 00m 02s.xml">
-      <configuration name="TestHomePage.clcik_on_Search" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 02h 00m 47s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 42m 35s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 02h 06m 54s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 46m 42s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.20 at 02h 10m 38s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 48m 38s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 00h 50m 39s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2746365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28271407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -613,13 +627,6 @@
     <entry file="file://$PROJECT_DIR$/alibaba/alibaba.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="48" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/databases/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="508">
@@ -672,13 +679,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="88" column="44" selection-start-line="88" selection-start-column="44" selection-end-line="88" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/databases/ConnectToSqlDB.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2971">
@@ -696,75 +696,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_sign_in (05.18.2019-17:13PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_sign_in (05.18.2019-17:14PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_sign_in (05.18.2019-17:29PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_sign_in (05.18.2019-17:48PM).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/sendkeys_toaccount (05.19.2019-11:25AM;38).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/sendkeys_toaccount (05.19.2019-11:26AM;58).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/sendkeys_toaccount (05.20.2019-01:22AM;12).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.18.2019-18:48PM;44).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.18.2019-18:49PM;57).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.18.2019-18:59PM;50).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.19.2019-11:25AM;42).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:24AM;20).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:26AM;24).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:27AM;56).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:33AM;35).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:42AM;55).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:44AM;03).png">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_sign_in (05.18.2019-17:13PM).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_sign_in (05.18.2019-17:14PM).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_sign_in (05.18.2019-17:29PM).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_sign_in (05.18.2019-17:48PM).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/sendkeys_toaccount (05.19.2019-11:25AM;38).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/sendkeys_toaccount (05.19.2019-11:26AM;58).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/sendkeys_toaccount (05.20.2019-01:22AM;12).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.18.2019-18:48PM;44).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.18.2019-18:49PM;57).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.18.2019-18:59PM;50).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.19.2019-11:25AM;42).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:24AM;20).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:26AM;24).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:27AM;56).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:33AM;35).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:42AM;55).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:44AM;03).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/clickorder_protection (05.20.2019-14:12PM;16).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="720">
+          <caret line="48" column="24" lean-forward="true" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#1548#1549#0" expanded="true" />
+            <element signature="e#1612#1613#0" expanded="true" />
+            <element signature="e#2158#2159#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3771">
+          <caret line="355" column="5" selection-start-line="355" selection-start-column="5" selection-end-line="355" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="51" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="221">
+          <caret line="85" column="53" selection-start-line="85" selection-start-column="53" selection-end-line="85" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#542#543#0" expanded="true" />
-            <element signature="e#573#574#0" expanded="true" />
+            <element signature="e#2197#2198#0" expanded="true" />
+            <element signature="e#2228#2229#0" expanded="true" />
           </folding>
         </state>
       </provider>
