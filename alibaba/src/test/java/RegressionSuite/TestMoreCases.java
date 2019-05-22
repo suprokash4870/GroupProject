@@ -6,10 +6,10 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 import regression.HomePage;
-
+//NoSuchElementException
 public class TestMoreCases extends CommonAPI {
     HomePage homePage;
-    String url = "https://swisnl.github.io/jQuery-contextMenu/demo.html";
+    String url = "https://www.alibaba.com/";
     //https://swisnl.github.io/jQuery-contextMenu/demo.html >> rightclick
     //   http://jqueryui.com/ >> drag and drop.
 
@@ -60,7 +60,7 @@ public class TestMoreCases extends CommonAPI {
         homePage.setChildrenfurniture();
     }
     @Test(priority = 27,enabled = false)
-    public void drang_drop_action() throws InterruptedException {
+    public void drag_drop_action() throws InterruptedException {
         homePage.setDrag_drop();
     }
     @Test(priority = 28,enabled = false)
