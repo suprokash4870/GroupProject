@@ -87,6 +87,27 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath = "//*[@id=\"header2012\"]/div[2]/div/div[6]/a/i/b")
     WebElement mouseover1;
 
+    @FindBy(xpath = "//*[@id=\\\"sidebar\\\"]/aside[1]/ul/li[2]/a")
+    WebElement drag_drop;
+
+    public void setDrag_drop(){
+        driver.switchTo().frame(0);
+        WebElement sourchElement
+    }
+
+
+//    set_upProperty("mac", "http://jqueryui.com/", "chrome");
+//        Thread.sleep(2000);
+//      driver.findElement(By.xpath("//*[@id=\"sidebar\"]/aside[1]/ul/li[2]/a")).click();
+//       >> driver.switchTo().frame(0);
+//        Thread.sleep(3000);
+//    WebElement sourchElements = driver.findElement(By.id("draggable"));
+//    WebElement targetElement = driver.findElement(By.id("droppable"));
+//    Actions actions = new Actions(driver);
+//        actions.clickAndHold(sourchElements).moveToElement(targetElement).release().build().perform();
+//        Thread.sleep(5000);
+//}
+
     public void setMouseover1() throws InterruptedException {
         Actions actions = new Actions(driver);
         actions.moveToElement(mouseover1);

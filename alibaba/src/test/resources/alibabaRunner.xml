@@ -11,6 +11,7 @@
 
     <parameter name="browser" value="chrome"/>
     <parameter name="url" value="https://www.alibaba.com//"/>
+    <parameter name="" value=""></parameter>
     <parameter name="platform" value="mac"/>
     <parameter name="envName" value="Saucelabs"></parameter>
 
