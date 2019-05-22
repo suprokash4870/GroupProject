@@ -64,7 +64,27 @@ public class HomePage extends CommonAPI {
 
     @FindBy(css = "body > div.help-center > div.grid.common-search > div.hc-searchbar > div > div > div.ui-searchbar-main > input")
     WebElement searchbar;
-    @FindBy(linkText = "Account")
+
+
+
+
+            @FindBy(linkText = "About Alibaba.com")
+            WebElement aboutalibaba_com;
+            @FindBy(xpath = "//*[@id=\"header2012\"]/div[2]/div/div[6]/a/i/b")
+            WebElement mouseover1;
+            public void setMouseover1() throws InterruptedException {
+                Actions actions = new Actions(driver);
+                actions.moveToElement(mouseover1);
+                Thread.sleep(3000);
+
+            }
+    public void setAboutalibaba_com() throws InterruptedException {
+        aboutalibaba_com.click();
+        Thread.sleep(3000);
+    }
+
+
+
     WebElement click_accountlink;
     public void setClick_accountlink() throws InterruptedException {
         click_accountlink.click();

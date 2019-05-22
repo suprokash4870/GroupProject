@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="714f85de-574f-42ef-8a68-aed2ce35389a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/Help_center (05.22.2019-03:04AM;40).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/Help_center (05.22.2019-03:07AM;05).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/Help_center (05.22.2019-03:10AM;35).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/Help_center (05.22.2019-03:11AM;56).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/Help_center (05.22.2019-03:13AM;35).png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestMoreCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestMoreCases.java" afterDir="false" />
     </list>
@@ -27,12 +27,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="229">
-              <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+            <state relative-caret-position="304">
+              <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#3776#3777#0" expanded="true" />
-                <element signature="e#4322#4323#0" expanded="true" />
+                <element signature="e#4339#4340#0" expanded="true" />
+                <element signature="e#4885#4886#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -41,12 +41,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestMoreCases.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="235">
-              <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+            <state relative-caret-position="250">
+              <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#521#522#0" expanded="true" />
-                <element signature="e#552#553#0" expanded="true" />
+                <element signature="e#580#581#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -564,12 +563,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 02h 12m 06s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 02h 26m 41s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 02h 27m 51s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -592,6 +585,12 @@
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 13m 37s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 14m 41s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 21m 01s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -857,24 +856,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="72" column="4" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+        <state relative-caret-position="304">
+          <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#3776#3777#0" expanded="true" />
-            <element signature="e#4322#4323#0" expanded="true" />
+            <element signature="e#4339#4340#0" expanded="true" />
+            <element signature="e#4885#4886#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestMoreCases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="41" column="8" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="8" />
+        <state relative-caret-position="250">
+          <caret line="50" column="33" selection-start-line="50" selection-start-column="33" selection-end-line="50" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#521#522#0" expanded="true" />
-            <element signature="e#552#553#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
           </folding>
         </state>
       </provider>
