@@ -36,6 +36,11 @@ public class TestMoreCases extends CommonAPI {
         homePage.setCatagories();
         homePage.setMachinary_Fabricatoinservice();
   }
-
+@Test
+    public void Help_center() throws InterruptedException {
+        homePage.setHelpcenter();
+        homePage.setSearchbar();
+        homePage.setClick_accountlink();
+}
 
 }

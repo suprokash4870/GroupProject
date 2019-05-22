@@ -62,7 +62,7 @@ public class HomePage extends CommonAPI {
     @FindBy(linkText = "Help Center")
     WebElement Helpcenter;
 
-    @FindBy(className = "ui-searchbar-keyword")
+    @FindBy(css = "body > div.help-center > div.grid.common-search > div.hc-searchbar > div > div > div.ui-searchbar-main > input")
     WebElement searchbar;
     @FindBy(linkText = "Account")
     WebElement click_accountlink;
@@ -70,7 +70,7 @@ public class HomePage extends CommonAPI {
         click_accountlink.click();
         Thread.sleep(3000);
     }
-
+//this method has Action classs.
     public void setSearchbar() throws InterruptedException {
         Actions actions=new Actions(driver);
         actions.moveToElement(searchbar).build().perform();
