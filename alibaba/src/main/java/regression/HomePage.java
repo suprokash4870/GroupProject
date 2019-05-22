@@ -2,6 +2,7 @@ package regression;
 
 import base.CommonAPI;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 
 public class HomePage extends CommonAPI {
@@ -40,8 +41,22 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath = "//*[@id=\"categorytree\"]/div/div/div/div[1]/div[2]/div[2]/a/div[1]")
     WebElement mensclothing;
 
+
+
+
+
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[4]/div/div/div/div[1]/i")
+    WebElement English_usd;
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[4]/div/div/div/div[2]/div[2]/div/div/div[2]/div/input")
+    WebElement find_country;
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[4]/div/div/div/div[2]/div[2]/div/div/div[2]/ul/li[1]/ul/li[2]")
+    WebElement country;
+
     public void setMensclothing() {
+        Actions actions = new Actions(driver);
+        actions.moveToElement(mensclothing).build().perform();
         mensclothing.click();
+
     }
 
 

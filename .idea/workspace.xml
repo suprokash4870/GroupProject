@@ -4,10 +4,28 @@
     <list default="true" id="714f85de-574f-42ef-8a68-aed2ce35389a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/click_apparel (05.21.2019-00:46AM;40).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/click_apparel (05.21.2019-00:48AM;37).png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/alibaba/screenshots/click_apparel (05.21.2019-00:50AM;37).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/classes/regression/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/classes/regression/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage.txt" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/Command line test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/Command line test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/RegressionSuite.TestHomePage/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/TEST-RegressionSuite.TestHomePage.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/TEST-RegressionSuite.TestHomePage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/junitreports/TEST-RegressionSuite.TestHomePage.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/classes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods-alphabetical.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods-not-run.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/methods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/RegressionSuite.TestHomePage/toc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/old/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/testng-failed.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/target/test-classes/RegressionSuite/TestHomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/target/test-classes/RegressionSuite/TestHomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/generic-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/generic-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/generic/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/generic/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -24,17 +42,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/alibaba/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-682">
-              <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1548#1549#0" expanded="true" />
-                <element signature="e#1612#1613#0" expanded="true" />
-                <element signature="e#2158#2159#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="19" column="19" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -42,26 +54,121 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="103" column="75" selection-start-line="103" selection-start-column="75" selection-end-line="103" selection-end-column="75" />
+            <state relative-caret-position="195">
+              <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+              <folding>
+                <element signature="e#10841#10842#0" expanded="true" />
+                <element signature="e#10871#10872#0" expanded="true" />
+                <element signature="e#11324#11325#0" expanded="true" />
+                <element signature="e#11391#11392#0" expanded="true" />
+                <element signature="e#12078#12079#0" expanded="true" />
+                <element signature="e#12139#12140#0" expanded="true" />
+                <element signature="e#12198#12199#0" expanded="true" />
+                <element signature="e#12273#12274#0" expanded="true" />
+                <element signature="e#12486#12487#0" expanded="true" />
+                <element signature="e#12555#12556#0" expanded="true" />
+                <element signature="e#12604#12605#0" expanded="true" />
+                <element signature="e#12684#12685#0" expanded="true" />
+                <element signature="e#12735#12736#0" expanded="true" />
+                <element signature="e#12802#12803#0" expanded="true" />
+                <element signature="e#13381#13382#0" expanded="true" />
+                <element signature="e#13424#13425#0" expanded="true" />
+                <element signature="e#13769#13770#0" expanded="true" />
+                <element signature="e#13836#13837#0" expanded="true" />
+                <element signature="e#15839#15840#0" expanded="true" />
+                <element signature="e#15887#15888#0" expanded="true" />
+                <element signature="e#15927#15928#0" expanded="true" />
+                <element signature="e#15977#15978#0" expanded="true" />
+                <element signature="e#17301#17302#0" expanded="true" />
+                <element signature="e#17368#17369#0" expanded="true" />
+                <element signature="e#17413#17414#0" expanded="true" />
+                <element signature="e#17493#17494#0" expanded="true" />
+                <element signature="e#17563#17564#0" expanded="true" />
+                <element signature="e#17638#17639#0" expanded="true" />
+                <element signature="e#17696#17697#0" expanded="true" />
+                <element signature="e#17762#17763#0" expanded="true" />
+                <element signature="e#18602#18603#0" expanded="true" />
+                <element signature="e#18660#18661#0" expanded="true" />
+                <element signature="e#18694#18695#0" expanded="true" />
+                <element signature="e#18734#18735#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mysql drivers/secret.properties">
+        <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/TestLogger.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="270">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentTestManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#802#803#0" expanded="true" />
+                <element signature="e#848#849#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic/src/main/java/databases/ConnectToMongoDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="54" selection-start-line="54" selection-end-line="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/generic/src/main/java/databases/ConnectToSqlDB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="658">
-              <caret line="109" selection-start-line="109" selection-end-line="109" />
+            <state relative-caret-position="3060">
+              <caret line="206" selection-start-line="206" selection-end-line="206" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,8 +179,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -112,10 +219,10 @@
         <option value="$PROJECT_DIR$/alibaba/src/test/resources/Runner.xml" />
         <option value="$PROJECT_DIR$/alibaba/report-config.xml" />
         <option value="$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml" />
-        <option value="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" />
-        <option value="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/src/main/resources/mysql drivers/secret.properties" />
+        <option value="$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java" />
+        <option value="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" />
       </list>
     </option>
   </component>
@@ -145,7 +252,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="x" value="20" />
     <option name="y" value="23" />
     <option name="width" value="1521" />
@@ -157,7 +264,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -360,15 +467,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/mysql drivers" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="coverage" />
   </component>
   <component name="RecentsManager">
@@ -502,41 +609,42 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestHomePage_readyto_ship - 2019.05.21 at 01h 44m 22s.xml">
-      <configuration name="TestHomePage.readyto_ship" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 01h 47m 25s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 14h 27m 02s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 01h 48m 59s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 14h 28m 17s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 01h 51m 11s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 14h 33m 14s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 01h 57m 02s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 14h 34m 13s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 01h 58m 45s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 14h 35m 06s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 02h 00m 13s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 14h 36m 24s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 02h 03m 00s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 17h 26m 35s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 02h 05m 01s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 18h 04m 48s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 02h 08m 15s.xml">
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 18h 13m 35s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.21 at 18h 15m 17s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28271407" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30613893" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -545,15 +653,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.40684932" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4050633" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32876712" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32739726" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32753164" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -605,28 +713,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentTestManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#802#803#0" expanded="true" />
-            <element signature="e#848#849#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/TestLogger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/utility/ExcelReader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -658,47 +744,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="810">
-          <caret line="54" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/databases/ConnectToMongoDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="590">
-          <caret line="74" column="1" selection-start-line="74" selection-start-column="1" selection-end-line="74" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/generic/src/main/java/databases/ConnectToSqlDB.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2971">
-          <caret line="205" column="1" selection-start-line="205" selection-start-column="1" selection-end-line="205" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/report-config.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
@@ -724,50 +769,145 @@
     <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:42AM;55).png" />
     <entry file="file://$PROJECT_DIR$/alibaba/screenshots/test2 (05.20.2019-01:44AM;03).png" />
     <entry file="file://$PROJECT_DIR$/alibaba/screenshots/clickorder_protection (05.20.2019-14:12PM;16).png" />
-    <entry file="file://$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml">
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_apparel (05.21.2019-00:46AM;40).png" />
+    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/vehicles_accessories (05.21.2019-02:02AM;58).png" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mysql drivers/secret.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-682">
-          <caret line="48" column="24" selection-start-line="48" selection-start-column="24" selection-end-line="48" selection-end-column="24" />
+        <state relative-caret-position="750">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1548#1549#0" expanded="true" />
-            <element signature="e#1612#1613#0" expanded="true" />
-            <element signature="e#2158#2159#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/generic/src/main/java/base/CommonAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="103" column="75" selection-start-line="103" selection-start-column="75" selection-end-line="103" selection-end-column="75" />
+        <state relative-caret-position="195">
+          <caret line="43" column="39" selection-start-line="43" selection-start-column="39" selection-end-line="43" selection-end-column="39" />
+          <folding>
+            <element signature="e#10841#10842#0" expanded="true" />
+            <element signature="e#10871#10872#0" expanded="true" />
+            <element signature="e#11324#11325#0" expanded="true" />
+            <element signature="e#11391#11392#0" expanded="true" />
+            <element signature="e#12078#12079#0" expanded="true" />
+            <element signature="e#12139#12140#0" expanded="true" />
+            <element signature="e#12198#12199#0" expanded="true" />
+            <element signature="e#12273#12274#0" expanded="true" />
+            <element signature="e#12486#12487#0" expanded="true" />
+            <element signature="e#12555#12556#0" expanded="true" />
+            <element signature="e#12604#12605#0" expanded="true" />
+            <element signature="e#12684#12685#0" expanded="true" />
+            <element signature="e#12735#12736#0" expanded="true" />
+            <element signature="e#12802#12803#0" expanded="true" />
+            <element signature="e#13381#13382#0" expanded="true" />
+            <element signature="e#13424#13425#0" expanded="true" />
+            <element signature="e#13769#13770#0" expanded="true" />
+            <element signature="e#13836#13837#0" expanded="true" />
+            <element signature="e#15839#15840#0" expanded="true" />
+            <element signature="e#15887#15888#0" expanded="true" />
+            <element signature="e#15927#15928#0" expanded="true" />
+            <element signature="e#15977#15978#0" expanded="true" />
+            <element signature="e#17301#17302#0" expanded="true" />
+            <element signature="e#17368#17369#0" expanded="true" />
+            <element signature="e#17413#17414#0" expanded="true" />
+            <element signature="e#17493#17494#0" expanded="true" />
+            <element signature="e#17563#17564#0" expanded="true" />
+            <element signature="e#17638#17639#0" expanded="true" />
+            <element signature="e#17696#17697#0" expanded="true" />
+            <element signature="e#17762#17763#0" expanded="true" />
+            <element signature="e#18602#18603#0" expanded="true" />
+            <element signature="e#18660#18661#0" expanded="true" />
+            <element signature="e#18694#18695#0" expanded="true" />
+            <element signature="e#18734#18735#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/alibaba/screenshots/click_apparel (05.21.2019-00:46AM;40).png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mysql drivers/secret.properties">
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/TestLogger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="270">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/reporting/ExtentTestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="1" selection-start-line="38" selection-start-column="1" selection-end-line="38" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#802#803#0" expanded="true" />
+            <element signature="e#848#849#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/databases/ConnectToMongoDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="31" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/src/main/java/databases/ConnectToSqlDB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="658">
-          <caret line="109" selection-start-line="109" selection-end-line="109" />
+        <state relative-caret-position="3060">
+          <caret line="206" selection-start-line="206" selection-end-line="206" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba/src/test/resources/alibabaRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/generic/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alibaba/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="19" lean-forward="true" selection-start-line="13" selection-start-column="3" selection-end-line="19" selection-end-column="19" />
         </state>
       </provider>
     </entry>
@@ -821,10 +961,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
+          <last-edited>alibaba</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
