@@ -70,13 +70,7 @@ public class HomePage extends CommonAPI {
         click_accountlink.click();
         Thread.sleep(3000);
     }
-//this method has Action classs.
-    public void setSearchbar() throws InterruptedException {
-        Actions actions=new Actions(driver);
-        actions.moveToElement(searchbar).build().perform();
-        searchbar.click();
-        Thread.sleep(2000);
-    }
+
 
 
     public void setHelpcenter() throws InterruptedException {
