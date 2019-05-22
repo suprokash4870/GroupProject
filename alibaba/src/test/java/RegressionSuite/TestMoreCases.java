@@ -33,7 +33,7 @@ public class TestMoreCases extends CommonAPI {
 
     }
 
-    // this method has Actions class to use mouse hover.
+    // this method has Actions class to use mouse hover//
     @Test(priority = 23, enabled = false)
     public void click_catagories() throws InterruptedException {
         homePage.setCatagories();
