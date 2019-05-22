@@ -42,9 +42,6 @@ public class HomePage extends CommonAPI {
     WebElement mensclothing;
 
 
-
-
-
     @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[4]/div/div/div/div[1]/i")
     WebElement English_usd;
     @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[4]/div/div/div/div[2]/div[2]/div/div/div[2]/div/input")
@@ -61,6 +58,32 @@ public class HomePage extends CommonAPI {
     @FindBy(partialLinkText = "Fabrication Service")
     WebElement Machinary_Fabricatoinservice;
 
+
+    @FindBy(linkText = "Help Center")
+    WebElement Helpcenter;
+
+    @FindBy(className = "ui-searchbar-keyword")
+    WebElement searchbar;
+    @FindBy(linkText = "Account")
+    WebElement click_accountlink;
+    public void setClick_accountlink() throws InterruptedException {
+        click_accountlink.click();
+        Thread.sleep(3000);
+    }
+
+    public void setSearchbar() throws InterruptedException {
+        Actions actions=new Actions(driver);
+        actions.moveToElement(searchbar).build().perform();
+        searchbar.click();
+        Thread.sleep(2000);
+    }
+
+
+    public void setHelpcenter() throws InterruptedException {
+        Helpcenter.click();
+        Thread.sleep(2000);
+}
+
     public void setMachinary_Fabricatoinservice() throws InterruptedException {
         Machinary_Fabricatoinservice.click();
         Thread.sleep(3000);
@@ -70,7 +93,6 @@ public class HomePage extends CommonAPI {
         Actions actions = new Actions(driver);
         actions.moveToElement(catagories).build().perform();
         Thread.sleep(5000);
-        //Fabrication Service
 
     }
 
