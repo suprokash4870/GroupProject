@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="714f85de-574f-42ef-8a68-aed2ce35389a" name="Default Changelist" comment="" />
+    <list default="true" id="714f85de-574f-42ef-8a68-aed2ce35389a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/Extent-Report/ExtentReport.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestMoreCases.java" beforeDir="false" afterPath="$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestMoreCases.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/generic/target/" />
@@ -20,12 +24,14 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+            <state relative-caret-position="-1495">
+              <caret line="73" column="51" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4339#4340#0" expanded="true" />
-                <element signature="e#4885#4886#0" expanded="true" />
+                <element signature="e#4691#4692#0" expanded="true" />
+                <element signature="e#4722#4723#0" expanded="true" />
+                <element signature="e#5235#5236#0" expanded="true" />
+                <element signature="e#5268#5269#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -34,8 +40,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestMoreCases.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="810">
+              <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#580#581#0" expanded="true" />
@@ -556,27 +562,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 02h 35m 48s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 04m 42s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 07m 07s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 10m 36s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 11m 57s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 13m 37s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 14m 41s.xml">
-      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 21m 01s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -584,6 +569,27 @@
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
     <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 03h 26m 44s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 04h 02m 26s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 04h 06m 01s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 04h 09m 24s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 04h 11m 14s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 04h 13m 43s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 04h 14m 49s.xml">
+      <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_mdriad_IdeaProjects_OurDream_alibaba_src_test_resources_alibabaRunner_xml - 2019.05.22 at 04h 16m 51s.xml">
       <configuration name="/Users/mdriad/IdeaProjects/OurDream/alibaba/src/test/resources/alibabaRunner.xml" configurationId="TestNG" />
     </history-entry>
   </component>
@@ -604,7 +610,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32739726" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32739726" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32739726" />
@@ -849,20 +855,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/src/main/java/regression/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="77" column="26" lean-forward="true" selection-start-line="77" selection-start-column="26" selection-end-line="77" selection-end-column="26" />
+        <state relative-caret-position="-1495">
+          <caret line="73" column="51" selection-start-line="73" selection-start-column="51" selection-end-line="73" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4339#4340#0" expanded="true" />
-            <element signature="e#4885#4886#0" expanded="true" />
+            <element signature="e#4691#4692#0" expanded="true" />
+            <element signature="e#4722#4723#0" expanded="true" />
+            <element signature="e#5235#5236#0" expanded="true" />
+            <element signature="e#5268#5269#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alibaba/src/test/java/RegressionSuite/TestMoreCases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        <state relative-caret-position="810">
+          <caret line="54" column="39" selection-start-line="54" selection-start-column="39" selection-end-line="54" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#580#581#0" expanded="true" />

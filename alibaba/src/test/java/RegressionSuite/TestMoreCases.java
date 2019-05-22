@@ -45,10 +45,16 @@ public class TestMoreCases extends CommonAPI {
         homePage.setHelpcenter();
 
     }
-    @Test(priority = 25,enabled = false)
+
+    @Test(priority = 25, enabled = false)
     public void clik_on_alibaba_com() throws InterruptedException {
         homePage.setAboutalibaba_com();
         homePage.setMouseover1();
     }
 
+    @Test(priority = 26,enabled = false)
+    public void click_furniture() throws InterruptedException {
+        homePage.setFurniture();
+        homePage.setChildrenfurniture();
+    }
 }
