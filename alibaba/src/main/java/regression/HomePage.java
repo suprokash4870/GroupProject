@@ -88,35 +88,29 @@ public class HomePage extends CommonAPI {
     WebElement mouseover1;
 
 
-
-    @FindBy(xpath = "//*[@id=\\\"sidebar\\\"]/aside[1]/ul/li[2]/a")
+//In this method we used Actions class for drag and drop element.
+    //by help of clickandHold , moveToElement, release methods.
+    //build call the actions class and perform does the result of storage elments in Webelement.
+    @FindBy(xpath = "//*[@id=\"sidebar\"]/aside[1]/ul/li[2]/a")
     WebElement drag_drop;
     @FindBy(id = "draggable")
     WebElement draggable;
     @FindBy(id = "droppable")
     WebElement droppable;
 
-    public void setDrag_drop() throws InterruptedException {
+    public void setDrag_drop() throws InterruptedException {    //   "http://jqueryui.com/");
         drag_drop.click();
-        driver.switchTo().frame(0);
-        Actions actions = new Actions(driver);
-        actions.clickAndHold(draggable).moveToElement(droppable).release().build().perform();
         Thread.sleep(5000);
+        driver.switchTo().frame(0);
+       Actions actions = new Actions(driver);
+        actions.clickAndHold(draggable).moveToElement(droppable).release().build().perform();
+
+       Thread.sleep(5000);
 
     }
 
 
-//    set_upProperty("mac", "http://jqueryui.com/", "chrome");
-//        Thread.sleep(2000);
-//      driver.findElement(By.xpath("//*[@id=\"sidebar\"]/aside[1]/ul/li[2]/a")).click();
-//       >> driver.switchTo().frame(0);
-//        Thread.sleep(3000);
-//    WebElement sourchElements = driver.findElement(By.id("draggable"));
-//    WebElement targetElement = driver.findElement(By.id("droppable"));
-//    Actions actions = new Actions(driver);
-//        actions.clickAndHold(sourchElements).moveToElement(targetElement).release().build().perform();
-//        Thread.sleep(5000);
-//}
+
 
     public void setMouseover1() throws InterruptedException {
         Actions actions = new Actions(driver);

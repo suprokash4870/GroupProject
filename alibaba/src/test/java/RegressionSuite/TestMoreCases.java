@@ -9,7 +9,7 @@ import regression.HomePage;
 
 public class TestMoreCases extends CommonAPI {
     HomePage homePage;
-    String url = "https://www.alibaba.com/";
+    String url = "http://jqueryui.com/";
 
     @BeforeClass
     public void init() {
@@ -57,7 +57,7 @@ public class TestMoreCases extends CommonAPI {
         homePage.setFurniture();
         homePage.setChildrenfurniture();
     }
-    @Test
+    @Test(priority = 27,enabled = false)
     public void drang_drop_action() throws InterruptedException {
         homePage.setDrag_drop();
     }
