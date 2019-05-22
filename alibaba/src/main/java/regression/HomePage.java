@@ -98,6 +98,36 @@ public class HomePage extends CommonAPI {
     @FindBy(id = "droppable")
     WebElement droppable;
 
+    @FindBy(xpath = "/html/body/div/section/div/div/div/p/span")
+    WebElement rightclick;
+    @FindBy(css = ".context-menu-icon-copy")
+    WebElement copy;
+
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[3]/ul/li[2]/span/i")
+    WebElement service_membership;
+    public void setService_membership() throws InterruptedException {
+        Actions actions = new Actions(driver);
+        actions.moveToElement(service_membership).build().perform();
+        Thread.sleep(5000);
+    }
+
+    //we used contextclick method for right clik.
+    //we found the text of copy in the console by gettext methods.
+//Also it captured the screenshot.
+
+    //https://swisnl.github.io/jQuery-contextMenu/demo.html
+
+    public void setRightclick() throws InterruptedException {
+        Actions actions = new Actions(driver);
+        actions.contextClick(rightclick).build().perform();
+        Thread.sleep(3000);
+        String copytext = copy.getText();
+        System.out.println(copytext);
+    }
+
+
+
+
     public void setDrag_drop() throws InterruptedException {    //   "http://jqueryui.com/");
         drag_drop.click();
         Thread.sleep(5000);

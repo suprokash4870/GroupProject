@@ -9,7 +9,9 @@ import regression.HomePage;
 
 public class TestMoreCases extends CommonAPI {
     HomePage homePage;
-    String url = "http://jqueryui.com/";
+    String url = "https://swisnl.github.io/jQuery-contextMenu/demo.html";
+    //https://swisnl.github.io/jQuery-contextMenu/demo.html >> rightclick
+    //   http://jqueryui.com/ >> drag and drop.
 
     @BeforeClass
     public void init() {
@@ -61,4 +63,14 @@ public class TestMoreCases extends CommonAPI {
     public void drang_drop_action() throws InterruptedException {
         homePage.setDrag_drop();
     }
+    @Test(priority = 28,enabled = false)
+    public void rightclick_usage() throws InterruptedException {
+        homePage.setRightclick();
+    }
+
+    @Test
+    public void service_membership_movetoelement() throws InterruptedException {
+        homePage.setService_membership();
+    }
+
 }

@@ -10,7 +10,7 @@
     <parameter name="browserVersion" value="74"/>
 
     <parameter name="browser" value="chrome"/>
-    <parameter name="url" value="http://jqueryui.com/"/>
+    <parameter name="url" value="https://swisnl.github.io/jQuery-contextMenu/demo.html"/>
 
     <parameter name="platform" value="mac"/>
     <parameter name="envName" value="Saucelabs"></parameter>
