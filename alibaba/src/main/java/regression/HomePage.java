@@ -52,6 +52,39 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[1]/div[4]/div/div/div/div[2]/div[2]/div/div/div[2]/ul/li[1]/ul/li[2]")
     WebElement country;
 
+    @FindBy(xpath = "//*[@id=\"login-other\"]/div[2]/a")
+    WebElement mobilenumber_signin;
+    @FindBy(className = "fm-text")
+    WebElement mobilenumber;
+    @FindBy(xpath = "//*[@id=\"J_SC_header\"]/header/div[2]/div[1]/div/div/h3/i[2]")
+    WebElement catagories;
+    @FindBy(partialLinkText = "Fabrication Service")
+    WebElement Machinary_Fabricatoinservice;
+
+    public void setMachinary_Fabricatoinservice() throws InterruptedException {
+        Machinary_Fabricatoinservice.click();
+        Thread.sleep(3000);
+    }
+
+    public  void setCatagories() throws InterruptedException {
+        Actions actions = new Actions(driver);
+        actions.moveToElement(catagories).build().perform();
+        Thread.sleep(5000);
+        //Fabrication Service
+
+    }
+
+    public void setMobilenumber() throws InterruptedException {
+        mobilenumber.sendKeys("1234567890");
+        Thread.sleep(3000);
+    }
+
+    public void setMobilenumber_signin() throws InterruptedException {
+        mobilenumber_signin.click();
+        Thread.sleep(5000);
+
+    }
+
     public void setMensclothing() {
         Actions actions = new Actions(driver);
         actions.moveToElement(mensclothing).build().perform();
