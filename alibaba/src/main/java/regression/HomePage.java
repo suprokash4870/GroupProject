@@ -87,12 +87,22 @@ public class HomePage extends CommonAPI {
     @FindBy(xpath = "//*[@id=\"header2012\"]/div[2]/div/div[6]/a/i/b")
     WebElement mouseover1;
 
+
+
     @FindBy(xpath = "//*[@id=\\\"sidebar\\\"]/aside[1]/ul/li[2]/a")
     WebElement drag_drop;
+    @FindBy(id = "draggable")
+    WebElement draggable;
+    @FindBy(id = "droppable")
+    WebElement droppable;
 
-    public void setDrag_drop(){
+    public void setDrag_drop() throws InterruptedException {
+        drag_drop.click();
         driver.switchTo().frame(0);
-        WebElement sourchElement
+        Actions actions = new Actions(driver);
+        actions.clickAndHold(draggable).moveToElement(droppable).release().build().perform();
+        Thread.sleep(5000);
+
     }
 
 

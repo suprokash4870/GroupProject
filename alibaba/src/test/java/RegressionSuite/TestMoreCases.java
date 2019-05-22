@@ -57,4 +57,8 @@ public class TestMoreCases extends CommonAPI {
         homePage.setFurniture();
         homePage.setChildrenfurniture();
     }
+    @Test
+    public void drang_drop_action() throws InterruptedException {
+        homePage.setDrag_drop();
+    }
 }
